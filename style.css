@@ -1,0 +1,44 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.hi{
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 20px;
+margin-bottom:15px;
+width:100%;
+display: inline-block;
+}
+.hi i{
+float:right;
+}
+.movietext span{
+color: yellow;
+}
+.envt{
+margin-top: 20px;
+}
+.envt h8{
+border-bottom: 1px solid blue;
+}
+.envt img{
+border-radius:25px;
+}
+.envt p{
+font-size:15px;
+margin-top:10px;
+}
